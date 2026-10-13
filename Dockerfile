@@ -1,5 +1,5 @@
 # Use the official Python image as the base
-FROM python:3.14-slim
+FROM python:3.15-slim
 
 # Set environment Variable
 ENV APP_DIR="/app"
